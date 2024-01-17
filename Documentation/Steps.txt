@@ -1,0 +1,32 @@
+========STEP 1==========
+
+vatan@LAPTOP-VKBJUPRN MINGW64 /c/VTLab/CPPProject2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Jan16.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+========STEP 2==========
+vatan@LAPTOP-VKBJUPRN MINGW64 /c/VTLab/CPPProject2 (main)
+$ git add Jan16.txt
+
+
+========STEP 3==========
+vatan@LAPTOP-VKBJUPRN MINGW64 /c/VTLab/CPPProject2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Jan16.txt
+
+
+vatan@LAPTOP-VKBJUPRN MINGW64 /c/VTLab/CPPProject2 (main)
+
+========STEP 4==========
